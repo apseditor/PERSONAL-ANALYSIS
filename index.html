@@ -807,4 +807,4 @@
         ReactDOM.render(<ColorAnalysisApp />, document.getElementById('root'));
     </script>
 </body>
-</html>
+</html> 
